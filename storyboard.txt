@@ -1,8 +1,8 @@
 <Mockit Logo>
 //Boost up sound
-Narator: Hello, Developers.
+Narrator: Hello, Developers.
 
-<Dev typing code + app floating out>
+<Dev typing code + apps popping up and faded out>
 Narrator: When you want to create a new product. Mockup or prototype can help you visualize what the final product will look like.
 
 <Dev and User talking to each others>
@@ -11,6 +11,37 @@ To get feedback from your user, to ensure the best User Experience>
 <Dev talk to devs>
 Or even, to align your teams to see the same things. To capture the requirements and break down the tasks.
 
+<Big Bouncing question mark>
+Narrator: But... What will you use to create a mockup?
 
-Narator: But... What will you use to create a mockup?
+<Split 2 sides /  Left = hand, Right = computer>
+Narrator: Using your hand, only grab a pen and draw it on paper or whiteboard?
 
+Narrator: Or..? Using prototyping software on the computer, that you can edit and share with your team.
+
+<"Frustating" dev struggled to draw a mockup on paper/whiteboard >> messy picture >
+Narrator: Using your hand is easy, but sometime it depends on personal skill to make it looks good.
+
+<Split 2 sides>
+<Dev take a picture and send through messenger>
+<"Frustating" user struggled to view a mockup on on mobile phone >
+Narrator: And it's hard to share with people in different places.
+
+<Mockit logo (superhero theme)>
+Narrator: Here comes the Mockit!.
+
+<Factory process -> handrawn become software>
+Narrator: Mockit will help you translate your hand drawn sketch of mockup into digital format, so you can interactively edit and share it with team or users.
+
+Narrator: It's only 3 steps to go!
+
+{
+  <BIG "1. Draw it !">
+  Narrator: Draw your mockup on paper or whiteboard
+
+  <BIG "2. Take a photo">
+  Narrator: Take a photo. using your mobile phone.
+
+  <BIG "3. Edit and share">
+  Narrator: Then you can edit and share it in the computer.
+}
