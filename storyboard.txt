@@ -1,0 +1,16 @@
+<Mockit Logo>
+//Boost up sound
+Narator: Hello, Developers.
+
+<Dev typing code + app floating out>
+Narrator: When you want to create a new product. Mockup or prototype can help you visualize what the final product will look like.
+
+<Dev and User talking to each others>
+To get feedback from your user, to ensure the best User Experience>
+
+<Dev talk to devs>
+Or even, to align your teams to see the same things. To capture the requirements and break down the tasks.
+
+
+Narator: But... What will you use to create a mockup?
+
